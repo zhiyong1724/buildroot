@@ -1,6 +1,7 @@
 BR2_arm=y
 BR2_cortex_m7=y
 BR2_ARM_ENABLE_VFP=y
+BR2_ARM_EABI=y
 BR2_ARM_FPU_FPV5DPD16=y
 BR2_KERNEL_HEADERS_CUSTOM_TARBALL=y
 BR2_KERNEL_HEADERS_CUSTOM_TARBALL_LOCATION="file:///home/chenzhiyong/shared/project/linux-5.15.178.tar.xz"
